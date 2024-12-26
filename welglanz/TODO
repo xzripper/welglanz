@@ -1,0 +1,59 @@
+text-input (validation, default text, placeholder, kbitnr-h, is password, password hide char), --- DONE
+select (eq. radio button, themeed colors, message on select, enable on select, kbitnr-h, round), ---- DONE
+multiselect (eq. checkbox, themeed colors, message on select, enable on select, kbitnr-h, rect), ----- DONE
+confirm (between yes (cst.msg) and no (cst.msg), themeed colors, message on sleect, enable on sleect, kbitnr-h), ---- DONE
+spinner (pending action, start...end, colored, custom spinners, kbitnr-h), --- DONE
+progress bar(colors, spinners, customizable text, hyper-beatiful, kbitnr-h, similar to loadspiner),
+render: text in box, message tree, e.g,via special chars,
+super soft colors, colors support, win support, smooth redrawing, connect widget to value
+version, docs, nice structure, etc
+shared theme
+
+SORT CODE
+
+set window title
+colored icons # done
+
+FUTURE: TRY suggested prompt
+
+colored text/logs
+gradient text progressbar
+
+dynamic_text
+
+title
+
+complete docs, $wgzdata
+
+FEATURE: Support for strike, underline in _raw_prompt
+Reduce select and multiselect to single answer
+
+TOTALLY REFACTOR THE CODE 
+later..
+
+fix emoji bug "    g"
+
+UPDATE ALL DOCSTRING!!!!
+
+on spinner finished icon
+
+add ONLY_DIGIT, ONLY_CHAR, etc for prompts
+
+forbid double id's
+
+link
+beautifuly connected boxes
+
+make sure everythin is equivalent, e.g sel if selected else def etc
+
+fix double space for bigger selectable icons
+
+DX UX
+
+path helper
+
+disable enable options in select multiselect
+
+custom icons for spinner finished state
+
+calculate_str_length fix
