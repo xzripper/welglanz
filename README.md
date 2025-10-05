@@ -35,4 +35,4 @@ wgz_multiselect(
 
 <sub>Alpha Testing; Subject to change.</sub>
 
-<sub>The first complete version is expected to be released between October and December of 2025. I'm not really working on the project.</sub>
+<sub>The first complete version is expected to be released between October and December of 2025. I'm barely working on the project.</sub>
