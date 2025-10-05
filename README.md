@@ -1,6 +1,6 @@
 <p align="center"><img src="welglanz.png" width=800></p>
 
-Foundation for future development.
+A foundation for future development.
 
 <img src="welglanz_spinner.gif">
 
