@@ -1,4 +1,4 @@
-<p align="center"><img src="welglanz.png" width=800></p>
+<p align="center"><img src="Welglänz.png" width=800></p>
 
 A foundation for future development.
 
