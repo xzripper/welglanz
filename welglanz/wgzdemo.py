@@ -35,7 +35,7 @@ def wgz_show_demo() -> None:
 
         exit(1)
 
-    wgzwst_print('[E:B][F:WHITE]> Welcome to Welglänz Demo!')
+    wgzwst_print('[E:B][F:WHITE]> Welcome to Welglänz Demo![R]')
 
     fname = wgz_prompt('First name:', 'John', kinterrupt_callback=keyboard_interruption_handler)
     sname = wgz_prompt('Second name:', 'Smith', kinterrupt_callback=keyboard_interruption_handler)
