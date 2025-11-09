@@ -60,7 +60,7 @@ def wgz_show_demo() -> None:
         (WgzSelectable('Apples', 'apples', 'Red and almost round (Pre-Selected).'),
          WgzSelectable('Bananas', 'bananas', 'Yellow and long (Focused/Pre-Selected).'),
          WgzSelectable('Orange', 'orange', 'Orange and round.'),
-         WgzSelectable('Nothing', 'nothing', 'Unique Answer.')), f'Select the fruits with {wgzwstkey("space")}', 'Fruits selected:',
+         WgzSelectable('Nothing', 'nothing', 'Unique Answer.')), f'Select the fruits with {wgzwstkey("space")}', 'Fruits selected',
          WGZ_SELECTABLE_ICON_DIAMOND, 'bananas', 'nothing', ('apples', 'bananas'), kinterrupt_callback=keyboard_interruption_handler
     )
 
