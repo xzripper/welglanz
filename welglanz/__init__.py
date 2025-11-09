@@ -1,4 +1,4 @@
-"""Welglänz is a very simple, compact and thorough CLI UX for Python 3."""
+"""Welglänz is a minimalist, simple, compact and thorough CLI UX for Python 3."""
 
 # Imports.
 from welglanz.wgzcore.wgzrenderer.wgzgeneric import wgzwst_print, wgz_wait
@@ -107,3 +107,4 @@ from welglanz.wgzdemo import wgz_show_demo
 # Welglanz Version.
 WELGLANZ_VERSION: str = '1.0.0'
 """Welglanz Version."""
+
