@@ -109,7 +109,7 @@ def wgztlm_posix_disable_raw_mode(old_attrs: OldTerminalData) -> None:
     if not old_attrs:
         tcsetattr(_WGZTLM_TRM_OLD_STD_DESCR_FALLBACK, TCSADRAIN, _WGZTLM_TRM_OLD_ATTRS_FALLBACK)
 
-        raise TypeError(wgzwst('[E:B][CF:255:0:0]Welglanz::TerminalModule: Critical error. Old termonal data is required to disable raw mode. Falling back to previously reserved data to recover the terminal.[R]'))
+        raise TypeError(wgzwst('[E:B][CF:255:0:0]Welglanz::TerminalModule: Critical error. Old terminal data is required to disable raw mode. Falling back to previously reserved data to recover the terminal.[R]'))
 
     tcsetattr(old_attrs[0], TCSADRAIN, old_attrs[1])
 
